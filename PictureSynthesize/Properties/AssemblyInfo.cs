@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // 有关程序集的一般信息由以下
 // 控制。更改这些特性值可修改
 // 与程序集关联的信息。
-[assembly: AssemblyTitle("PictureSynthesizer")]
+[assembly: AssemblyTitle("PictureSynthesize")]
 [assembly: AssemblyDescription("图片合成")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("guanqixu")]
-[assembly: AssemblyProduct("PictureSynthesizer")]
+[assembly: AssemblyProduct("PictureSynthesize")]
 [assembly: AssemblyCopyright("Copyright ©  2020")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]

@@ -1,9 +1,5 @@
-﻿using System;
-using System.Collections.Generic;
+﻿using PictureSynthesize;
 using System.Drawing;
-using System.Linq;
-using System.Text;
-using PictureSynthesize;
 
 namespace PictureSynthesizerDemo
 {
