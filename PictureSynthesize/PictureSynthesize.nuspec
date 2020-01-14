@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package >
+  <metadata>
+    <id>guanqixu.$id$</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>$author$</authors>
+    <owners>$author$</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="expression">MIT</license>
+	<repository type="git" url="https://github.com/guanqixu/PictureSynthesizer.git" branch="master" />
+    <description>$description$</description>
+    <releaseNotes>第一个版本，图片文字合成</releaseNotes>
+    <copyright>Copyright 2020</copyright>
+    <tags>picture photo</tags>
+	<icon>icon.png</icon>
+	<dependencies>
+      <group targetFramework="net40">
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="../icon.png" target="" />
+  </files>
+</package>
